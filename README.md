@@ -11,6 +11,7 @@ Stellar Stream is a simple desktop application built using Python (CustomTkinter
 
 - Download videos or audio from YouTube by pasting the video URL
 - Choose a destination folder to save the downloaded files
+- Multithreading
 - Option to switch between dark and light modes for the user interface
 - Visual progress indication during the download process
 - Once the video starts downloading, the UI becomes disabled in order to prevent multiple downloads at the same moment
