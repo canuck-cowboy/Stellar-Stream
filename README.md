@@ -1,6 +1,6 @@
 # Stellar Stream
 
-Stellar Stream is a simple desktop application built using Python (CustomTkinter) for downloading videos and audio from YouTube.
+Stellar Stream is a simple desktop application built using Python for downloading videos and audio from YouTube.
 
 ## Screenshots
 ![image](https://github.com/AbedIronman/Stellar-Stream/assets/57958425/442c8daa-b642-4f51-bbbe-8070054d658d)  ![image](https://github.com/AbedIronman/Stellar-Stream/assets/57958425/4b87b939-3e2d-434d-a5b1-fe050973189f)
