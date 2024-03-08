@@ -8,8 +8,6 @@ import time
 
 '''
 For testing purposes: https://www.youtube.com/shorts/UfkCDKnI1CI
-To do:
-    - check if multi-threading is necessary
 '''
 # Constants
 MY_FONT = ('comic sans ms', 13)
